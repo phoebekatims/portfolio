@@ -1,3 +1,5 @@
-
+<!DOCTYPE html>
 grocery-list=["apples, bananas, chicken, blueberries, raspberries"]
-print('grocery-list')
+<body>
+print("grocery-list")
+</body>
