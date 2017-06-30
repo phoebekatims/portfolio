@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-grocery-list=["apples, bananas, chicken, blueberries, raspberries"]
 <body>
 print("grocery-list")
 </body>
+
+grocery-list=["apples, banana, chicken, blueberries, raspeberries"]
