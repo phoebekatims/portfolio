@@ -14,7 +14,7 @@ var mapOptions = {
 }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2midIpPuyZ6VZWk2rt0NgBn9dos4Kfo8=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2midIpPuyZ6VZWk2rt0NgBn9dos4Kfo8=&cal"></script>
 
 </body>
 </html>
