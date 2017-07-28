@@ -30,6 +30,6 @@
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGrW0xN3RpkWkg37Vfc4iMvTBvRpTD1Mk&callback=myMap"    
     </script>
-  </body>
+  </head>
 </html>
 
