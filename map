@@ -25,7 +25,7 @@
       }
     </script>
     <script async defer
-    src="http://media.gq.com/photos/57ffebd7e5dad068275d781e/master/w_2000/1616-gq-fekl12-01-kl-gqstyle.jpg = myMap">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGrW0xN3RpkWkg37Vfc4iMvTBvRpTD1Mk&callback=myMap"    
     </script>
   </body>
 </html>
