@@ -27,6 +27,24 @@
     <script async defer
     src="http://media.gq.com/photos/57ffebd7e5dad068275d781e/master/w_2000/1616-gq-fekl12-01-kl-gqstyle.jpg = myMap">
     </script>
+    
+    var stylesArray = [
+   {
+   featureType:'administrative',
+   elementType:'geometry.stroke',
+   stylers:[
+      {color:''};
+      {visibility:''};
+      ]
+  },
+  {
+    featureType: '',
+    }
+]
+   
+    
+    
+    
   </body>
 </html>
 
